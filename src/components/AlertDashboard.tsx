@@ -58,7 +58,7 @@ const AlertDashboard = () => {
         <div className="flex items-center justify-between">
           <div>
             <h1 className="text-3xl font-bold bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
-              Verso Alert Dashboard
+              Verso
             </h1>
             <p className="text-slate-400 mt-1">Real-time spread monitoring for traders</p>
           </div>
