@@ -37,8 +37,8 @@ export function AppSidebar() {
     <Sidebar className="w-16 border-r border-slate-800" collapsible="none">
       <SidebarContent className="bg-slate-900">
         <div className="p-2 border-b border-slate-800">
-          <div className="w-12 h-12 bg-gradient-to-r from-blue-400 to-purple-500 rounded-lg flex items-center justify-center">
-            <span className="text-white font-bold text-lg">V</span>
+          <div className="w-12 h-12 flex items-center justify-center">
+            <span className="text-white font-bold text-2xl">V</span>
           </div>
         </div>
         
