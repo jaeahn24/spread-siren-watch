@@ -192,7 +192,7 @@ const AlertSettings = () => {
                     <Label className="text-white">Alert Type</Label>
                     <Select 
                       value={rule.alertType} 
-                      onValueChange={(value: "both" | "widen" | "tighten") => 
+                      onValueChange={(value: "both" | "widen") => 
                         updateRule(rule.id, { alertType: value })
                       }
                     >
